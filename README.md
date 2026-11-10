@@ -13,6 +13,10 @@ My work connects product scope, visual identity, interaction design and working 
 
 ### RFQ Review — from a discrepancy to its source
 
+[![RFQ Review — side-by-side requirements, source excerpts and human review](https://github.com/user-attachments/assets/234ece7b-2f4c-4daa-9854-d1b38f102c5c)](https://v1-revue-rfq-enzo.netlify.app/app?lang=en)
+
+<sub>Interface detail · quantity discrepancy, source excerpts and review controls. Synthetic documents.</sub>
+
 A request and supplier quote show **100 units**; the purchase order shows **150**. The reviewer can compare the documents, open the source excerpt and make a review decision in the same flow.
 
 **My contribution:** workflow, information hierarchy, review states and agent-assisted implementation.  
@@ -24,6 +28,10 @@ A request and supplier quote show **100 units**; the purchase order shows **150*
 
 ### <img src="https://lexiafordev.netlify.app/brand/lexia-handmade-symbol.png" alt="Lexia — handmade blue symbol" width="30" /> Lexia — making AI evidence understandable
 
+[![Lexia — editable evidence record and separate content, signature and reference-key checks](https://github.com/user-attachments/assets/26170267-ca6e-40b5-a86f-a640233b1a50)](https://lexiafordev.netlify.app/#proof-workshop)
+
+<sub>Interactive proof workshop · editing the note changes the content and invalidates its signature. Fictitious example.</sub>
+
 An interface connecting an AI-related observation, its source and human review. The public proof workshop lets you change a record and inspect separate checks for **content, signature and reference key**.
 
 **My contribution:** founder, product scope, visual identity, interface design and development with coding agents.  
@@ -34,6 +42,10 @@ An interface connecting an AI-related observation, its source and human review. 
 <sub>Site and interactive examples are public. Online repository scans are paused; examples use fictitious data.</sub>
 
 ### BUIDINE Galerie — art, space and interaction
+
+[![BUIDINE Galerie — Maison intérieure with artwork selection and a three-dimensional architectural model](https://github.com/user-attachments/assets/cf3c3360-fd7a-4203-8b1e-fc3aceb27c53)](https://buidine-galerie.vercel.app/maison-interieure)
+
+<sub>Maison intérieure · three artwork choices shape the living room, patio and bedroom. Study reproductions.</sub>
 
 A digital gallery with an architectural exploration, **Maison intérieure**, where selecting artworks shapes a place to visit. The work brings together curation, colour, typography, light and spatial navigation.
 
