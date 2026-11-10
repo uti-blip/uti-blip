@@ -13,7 +13,7 @@ My work connects product scope, visual identity, interaction design and working 
 
 ### RFQ Review — from a discrepancy to its source
 
-[![RFQ Review — side-by-side requirements, source excerpts and human review](https://github.com/user-attachments/assets/234ece7b-2f4c-4daa-9854-d1b38f102c5c)](https://v1-revue-rfq-enzo.netlify.app/app?lang=en)
+[![RFQ Review — side-by-side requirements, source excerpts and human review](https://github.com/user-attachments/assets/27333b7e-6e5b-46e7-9f16-fcc63c66b260)](https://v1-revue-rfq-enzo.netlify.app/app?lang=en)
 
 <sub>Interface detail · quantity discrepancy, source excerpts and review controls. Synthetic documents.</sub>
 
@@ -28,7 +28,7 @@ A request and supplier quote show **100 units**; the purchase order shows **150*
 
 ### <img src="https://lexiafordev.netlify.app/brand/lexia-handmade-symbol.png" alt="Lexia — handmade blue symbol" width="30" /> Lexia — making AI evidence understandable
 
-[![Lexia — editable evidence record and separate content, signature and reference-key checks](https://github.com/user-attachments/assets/26170267-ca6e-40b5-a86f-a640233b1a50)](https://lexiafordev.netlify.app/#proof-workshop)
+[![Lexia — editable evidence record and separate content, signature and reference-key checks](https://github.com/user-attachments/assets/0544931e-7239-4eb4-8209-6fd2ebd5b9f9)](https://lexiafordev.netlify.app/#proof-workshop)
 
 <sub>Interactive proof workshop · editing the note changes the content and invalidates its signature. Fictitious example.</sub>
 
