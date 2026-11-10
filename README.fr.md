@@ -13,7 +13,7 @@ Mon travail relie le cadrage produit, l’identité visuelle, la conception des 
 
 ### Revue RFQ — remonter d’un écart à sa source
 
-[![Revue RFQ — exigences comparées, extraits sources et revue humaine](https://github.com/user-attachments/assets/234ece7b-2f4c-4daa-9854-d1b38f102c5c)](https://v1-revue-rfq-enzo.netlify.app/app)
+[![Revue RFQ — exigences comparées, extraits sources et revue humaine](https://github.com/user-attachments/assets/27333b7e-6e5b-46e7-9f16-fcc63c66b260)](https://v1-revue-rfq-enzo.netlify.app/app)
 
 <sub>Détail de l’interface · écart de quantité, extraits sources et contrôles de revue. Documents synthétiques.</sub>
 
@@ -28,7 +28,7 @@ La demande et le devis fournisseur indiquent **100 unités** ; le bon de command
 
 ### <img src="https://lexiafordev.netlify.app/brand/lexia-handmade-symbol.png" alt="Lexia — symbole bleu fait main" width="30" /> Lexia — rendre la preuve liée à l’IA compréhensible
 
-[![Lexia — fiche modifiable et contrôles distincts du contenu, de la signature et de la clé](https://github.com/user-attachments/assets/26170267-ca6e-40b5-a86f-a640233b1a50)](https://lexiafordev.netlify.app/#proof-workshop)
+[![Lexia — fiche modifiable et contrôles distincts du contenu, de la signature et de la clé](https://github.com/user-attachments/assets/0544931e-7239-4eb4-8209-6fd2ebd5b9f9)](https://lexiafordev.netlify.app/#proof-workshop)
 
 <sub>Atelier de preuve interactif · modifier la mention change le contenu et invalide sa signature. Exemple fictif.</sub>
 
