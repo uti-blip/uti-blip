@@ -13,6 +13,10 @@ Mon travail relie le cadrage produit, l’identité visuelle, la conception des 
 
 ### Revue RFQ — remonter d’un écart à sa source
 
+[![Revue RFQ — exigences comparées, extraits sources et revue humaine](https://github.com/user-attachments/assets/234ece7b-2f4c-4daa-9854-d1b38f102c5c)](https://v1-revue-rfq-enzo.netlify.app/app)
+
+<sub>Détail de l’interface · écart de quantité, extraits sources et contrôles de revue. Documents synthétiques.</sub>
+
 La demande et le devis fournisseur indiquent **100 unités** ; le bon de commande en affiche **150**. Le lecteur peut comparer les documents, ouvrir l’extrait source et prendre une décision de revue dans le même parcours.
 
 **Ma contribution :** parcours, hiérarchie de l’information, états de revue et implémentation assistée par agents.  
@@ -24,6 +28,10 @@ La demande et le devis fournisseur indiquent **100 unités** ; le bon de command
 
 ### <img src="https://lexiafordev.netlify.app/brand/lexia-handmade-symbol.png" alt="Lexia — symbole bleu fait main" width="30" /> Lexia — rendre la preuve liée à l’IA compréhensible
 
+[![Lexia — fiche modifiable et contrôles distincts du contenu, de la signature et de la clé](https://github.com/user-attachments/assets/26170267-ca6e-40b5-a86f-a640233b1a50)](https://lexiafordev.netlify.app/#proof-workshop)
+
+<sub>Atelier de preuve interactif · modifier la mention change le contenu et invalide sa signature. Exemple fictif.</sub>
+
 Une interface qui relie une observation, sa source et la revue humaine. L’atelier de preuve public permet de modifier une fiche et d’examiner trois contrôles distincts : **contenu, signature et clé de référence**.
 
 **Ma contribution :** fondateur, cadrage produit, identité visuelle, conception de l’interface et développement avec des agents.  
@@ -34,6 +42,10 @@ Une interface qui relie une observation, sa source et la revue humaine. L’atel
 <sub>Le site et les exemples interactifs sont publics. Les scans de dépôts en ligne sont en pause ; les exemples utilisent des données fictives.</sub>
 
 ### BUIDINE Galerie — art, espace et interaction
+
+[![BUIDINE Galerie — Maison intérieure avec sélection d’œuvres et maquette architecturale en trois dimensions](https://github.com/user-attachments/assets/cf3c3360-fd7a-4203-8b1e-fc3aceb27c53)](https://buidine-galerie.vercel.app/maison-interieure)
+
+<sub>Maison intérieure · trois choix d’œuvres composent le salon, le patio et la chambre. Reproductions d’étude.</sub>
 
 Une galerie numérique et une exploration architecturale, **Maison intérieure**, où le choix d’œuvres compose un lieu à parcourir. Le projet réunit curation, couleur, typographie, lumière et navigation dans l’espace.
 
